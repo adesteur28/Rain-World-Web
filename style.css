@@ -1,0 +1,154 @@
+body {
+    background-color: #362E2C;
+    background-image: url("https://codehs.com/uploads/fdc293c38ecf4e1f7f60cbfcec54c704");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ title {
+     background-color: #362E2C;
+     color: White;
+     font-size: 24px;
+ }
+h1 { 
+    Color: White;
+    font-size: 28px;
+    background-color: #362E2C;
+}
+h2 {
+    color:White;
+    Font-size: 18px;
+    background-color: #362E2C;
+}
+h3 {
+    color:White;
+    Font-size: 18px;
+    background-color: #362E2C;
+}
+
+l1 {
+    color:White;
+    Font-size: 16px;
+    background-color: #362E2C;
+}
+
+l2 {
+    color:White;
+    Font-size: 14px;
+    background-color: #362E2C;
+}
+
+div {
+    color:White;
+    Font-size: 14px;
+    background-color: #362E2C;
+}
+
+.text-1 {
+    width: 50vw;
+}
+
+
+
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.gourmand-sleep-pips {
+    width: 250px;
+    max-width: 250px;
+    margin-left:auto;
+    margin-right:auto;
+    height: auto;
+    
+}
+
+
+.container-2 {
+   text-align: right;
+   Width: 50vw;
+} 
+
+
+.text-2 {
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center
+    
+}
+
+.gourmand-hold {
+    /*width: 250px;*/
+    max-width: 250px;
+    margin-left:auto;
+    margin-right:auto;
+    height: auto;
+    width: 50vw;
+
+}
+
+.text-3 {
+    width: 50vw;
+}
+
+.container-3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.gourmand-school {
+    width: 500px;
+    max-width: 500px;
+    margin-left:auto;
+    margin-right:auto;
+    height: auto;
+}
+
+.slugcats-fanarts-line {
+    width: 300px;
+    max-width: 300px;
+    margin-left:auto;
+    margin-right:auto;
+    height: auto;
+}
+
+.Rain-World-downpour-all {
+    width: 500px;
+    max-width: 500px;
+    margin-left:auto;
+    margin-right:auto;
+    height: auto;
+}
+
+.rain-world-coverartfull {
+    width: 500px;
+    max-width: 500px;
+    margin-left:auto;
+    margin-right:auto;
+    height: auto;
+}
+
+.placeholder {
+    width: 250px;
+    max-width: 250px;
+    margin-left:auto;
+    margin-right:auto;
+    height: auto;
+}
+h4 {
+    width: 50vw;
+    font-weight: 750;
+}
+
+.placeholder-large {
+    width: 500px;
+    max-width: 500px;
+    margin-left:auto;
+    margin-right:auto;
+    height: auto;
+    
+}
